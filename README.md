@@ -22,18 +22,9 @@ int main()
 }
 ```
 
-### The Output of this program will simply be :
-![Image of output](https://github.com/MrAsrani1312/Images/blob/master/snip1out.PNG)
+* So what are int and what can be stored in them? What they can store is integers like (... 3, 2, 1, 0, -1, -2, -3 ...)
+* There is a limit to how much can be stored in a int
 
-Now , let's break down the code :
-#### Line 1 and 2
-
-```cpp
-#include<iostream>
-using namespace std;
-```
-
-* The 1st line tells the compiler to use the "iostream" header file for this specific program. There are many other header files which are required for a specific program to run properly. Some of them are math, vector and string. Header files are generally represented by a ".h" extension. You don't need to ".h" with the standard header files.     
   - "iostream" stands for input-output stream . The "iostream" file contains code for allowing the computer to take input and generate an output, using the C++ language.     
 * The second line tells the computer to use the standard namespace which includes features of standard C++ . 
 
